@@ -35,11 +35,6 @@ This repository demonstrates the following 6 essential routing patterns used in 
 * **Use Case:** Ensuring legacy mobile apps or frontend clients don't break when your backend data structures evolve.
 * **Example:** `GET /api/v1/posts` vs `GET /api/v2/posts`
 
-### 6. Catch-All Routes
-* **What it is:** Wildcard matchers using path converters (`{file_path:path}`) to scoop up multi-level path segments and forward slashes.
-* **Use Case:** Building file management systems, cloud storage navigation, or Single Page Application (SPA) frontend routers.
-* **Example:** `GET /files/{file_path:path}`
-
 ---
 
 ## 💻 Code Implementation Preview

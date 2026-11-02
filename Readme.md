@@ -2,7 +2,7 @@
 
 Welcome to my **Backend Fundamentals & Advanced Systems** repository! This repository serves as my comprehensive, production-grade lab where I build, architect, and document enterprise-level backend systems from scratch using **Python, FastAPI, PostgreSQL, and modern cloud infrastructure**.
 
-As an aspiring **Forward Deployed Engineer (FDE)** and **Agentic AI Engineer**, robust backend mastery is non-negotiable. Autonomous agents, multi-agent supervisor loops, and real-time LLM orchestrations require ultra-reliable APIs, low-latency databases, secure authentication, and resilient infrastructure.
+As an aspiring **Agentic AI Engineer**, robust backend mastery is non-negotiable. Autonomous agents, multi-agent supervisor loops, and real-time LLM orchestrations require ultra-reliable APIs, low-latency databases, secure authentication, and resilient infrastructure.
 
 ---
 

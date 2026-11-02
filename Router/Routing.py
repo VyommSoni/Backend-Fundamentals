@@ -1,5 +1,5 @@
 from fastapi import FastAPI,Query,Path
-from uvicorn import run as app_run
+from uvicorn import run 
 
 
 #Routing : Where you want to Go on the server, this is the understanding of the routing in Rest APIs
@@ -75,6 +75,6 @@ def get_posts_v2():
 
 
 if __name__=="__main__":
-    app_run(app, host="127.0.0.1", port=8001)
+    run(app, host="127.0.0.1", port=8001)
 
 
