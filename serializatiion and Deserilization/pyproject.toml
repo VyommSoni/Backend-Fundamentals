@@ -1,0 +1,20 @@
+[project]
+name = "serialization-and-deserialization"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "vyomsoni", email = "svyom21@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.162.0",
+    "uvicorn>=0.54.0",
+]
+
+[project.scripts]
+serialization-and-deserialization = "serialization_and_deserialization:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
